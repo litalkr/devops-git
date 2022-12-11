@@ -1,2 +1,2 @@
-sum = 12 + 15
+sum = 15 + 15 + 20
 print(sum)
